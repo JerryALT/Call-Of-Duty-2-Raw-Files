@@ -189,6 +189,7 @@ main
 		pb_crouchwalk_loop
 		pb_sprint
 		pb_sprint_B
+		pb_sprint_gundown
 		pb_sprint_stickgrenade
 		pb_sprint_grenade
 
@@ -262,6 +263,9 @@ main
 		pb_walk_back
 		pb_walk_forward
 
+		pb_pull_stand_intro
+		pb_pull_stand_loop
+		pb_pull_stand_end
 
 //		pb_wounded_walk_loop // the temp ladder climbing anim
 

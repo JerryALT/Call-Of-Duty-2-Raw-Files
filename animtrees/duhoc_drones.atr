@@ -1,8 +1,5 @@
 //running anims
 drone_run_forward_1
-drone_run_forward_2
-drone_run_forward_3
-drone_medic_run
 
 //drone gunned down anims
 death_stand_dropinplace
@@ -20,13 +17,5 @@ death_explosion_right13
 
 //against cliff anims
 stand2crouch_attack
-duhoc__cliffidle_twitch1
-duhoc__cliffidle_twitch2
-duhoc__cliffidle_point
-duhoc__cliffidle_idle
 
-drone_stand_to_run
 
-higginsboat_ranger_transitiontorun1
-higginsboat_ranger_transitiontorun2
-higginsboat_ranger_transitiontorun3
